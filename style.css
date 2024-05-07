@@ -28,7 +28,7 @@ p {
   height: 100vh;
 }
 
-.inner {
+.flex-item {
   flex: 1;
   text-align: center;
   max-width: 280px;
